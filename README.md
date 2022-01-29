@@ -28,4 +28,3 @@ Bila menemukan kendala/bug, harap lapor ke nama nama orang berikut
    <li>username : parijan atau pahrijan</li>
    <li>password : 12345678</li>
 </ol>
->>>>>>> f3bfa40eaea28e59421a10b467620be810a3e23e
